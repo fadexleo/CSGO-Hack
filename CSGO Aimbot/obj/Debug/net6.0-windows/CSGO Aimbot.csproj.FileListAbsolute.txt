@@ -1,0 +1,20 @@
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\bin\Debug\net6.0-windows\CSGO Aimbot.exe
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\bin\Debug\net6.0-windows\CSGO Aimbot.deps.json
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\bin\Debug\net6.0-windows\CSGO Aimbot.runtimeconfig.json
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\bin\Debug\net6.0-windows\CSGO Aimbot.dll
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\bin\Debug\net6.0-windows\CSGO Aimbot.pdb
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\bin\Debug\net6.0-windows\swed32.dll
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO Aimbot.csproj.AssemblyReference.cache
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO_Aimbot.Form1.resources
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO Aimbot.csproj.GenerateResource.cache
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO Aimbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO Aimbot.AssemblyInfoInputs.cache
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO Aimbot.AssemblyInfo.cs
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO Aimbot.csproj.CoreCompileInputs.cache
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO Aimbot.csproj.CopyComplete
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO Aimbot.dll
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\refint\CSGO Aimbot.dll
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO Aimbot.pdb
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO Aimbot.genruntimeconfig.cache
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\ref\CSGO Aimbot.dll
+C:\Users\o\source\repos\CSGO Aimbot\CSGO Aimbot\obj\Debug\net6.0-windows\CSGO_Aimbot.Form2.resources
